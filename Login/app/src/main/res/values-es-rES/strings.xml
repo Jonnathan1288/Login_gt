@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Email">Correo Electronico</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="imgLogin">LoginImg</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Crear_Cuenta">Crear Cuenta</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Repetir_Contraseña">Repetir la Contraseña</string>
+    <string name="Cerrarsesion">Salir</string>
+</resources>

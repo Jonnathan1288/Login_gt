@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Registrar">Sign In</string>
+    <string name="Ingresar">Sign Up</string>
+    <string name="Email">Email</string>
+    <string name="Contraseña">Password</string>
+    <string name="imgLogin">LoginImg</string>
+    <string name="Bienvenido">Welcome</string>
+    <string name="Crear_Cuenta">Create Account</string>
+    <string name="Cancelar">Cancel</string>
+    <string name="Repetir_Contraseña">Repeat Password</string>
+    <string name="Cerrarsesion">SIgn Out</string>
+</resources>

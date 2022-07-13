@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42068065758",
+    "project_id": "login-73120",
+    "storage_bucket": "login-73120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42068065758:android:036e3161fd07292e7c314f",
+        "android_client_info": {
+          "package_name": "com.jonnathan.gallegos.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42068065758-fqgvv5881ohtas5pl47bpmjjjvsf5505.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANetYc9lUqVNw_RBofiDbvYsJTB0fm_ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42068065758-fqgvv5881ohtas5pl47bpmjjjvsf5505.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
